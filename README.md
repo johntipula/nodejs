@@ -3,14 +3,14 @@ Nodejs example for beginners and example of module creation
 
 1. Nodejs Hello World
 --------------------
-Hello World Basic example Nodejs with:
+Run Hello World Basic example Nodejs with:
 ```
 node app.js
 ```
 
 2. Nodejs with module
 --------------------
-Example with a module created in the folder module with:
+Run Example with a module created in the folder module with:
 ```
 node index.js
 ```
